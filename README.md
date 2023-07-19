@@ -1,4 +1,13 @@
 ## Hey, I'm Jake!
+blah blah blah
+
+## My Socials
+
+## What I Work With
+
+## I'm Currently Learning
+
+## My Current Project Repos
 <!--
 **JakeStudy/JakeStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
