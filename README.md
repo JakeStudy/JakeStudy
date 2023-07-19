@@ -2,9 +2,6 @@
 blah blah blah
 
 ## My Socials
-<a href="https://www.npmjs.com/package/JavaScript"><img src="https://img.shields.io/badge/dependency-JavaScript-9cf?logo=javascript&logoColor=white" alt="dependency - JavaScript"></a>
-
-<a href="https://www.npmjs.com/package/JavaScript"><img src="https://img.shields.io/github/package-json/dependency-version/JakeStudy/JakeStudy/dev/JavaScript?logo=javascript&logoColor=white&color=9cf" alt="Package - JavaScript"></a>
 
 
 ## What I Work With
