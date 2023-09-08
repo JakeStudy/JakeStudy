@@ -1,5 +1,5 @@
 ## Hey, I'm Jake!
-blah blah blah
+
 
 ## My Socials
 
